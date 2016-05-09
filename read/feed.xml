@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    <title>政好读书</title>
+    <link>http://cnpolitics.github.io/radio/</link>
+    <atom:link href="/read/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <description>拆掉知识的高墙，让普通人接触社科学术研究中的新知和思想精华 radio.cnpolitics.org</description>
+    <itunes:summary>拆掉知识的高墙，让普通人接触社科学术研究中的新知和思想精华 radio.cnpolitics.org</itunes:summary>
+    <itunes:author>政见 CNPolitics.org</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://7xtl1z.com2.z0.glb.clouddn.com/read/cover-v0.1.0.jpg" />
+    <image>
+      <title>政好读书</title>
+      <url>http://7xtl1z.com2.z0.glb.clouddn.com/read/cover-v0.1.0.jpg</url>
+      <link>http://cnpolitics.github.io/radio/</link>
+    </image>
+    <itunes:category text="Science &amp; Medicine">
+      <itunes:category text="Social Sciences" />
+    </itunes:category>
+    <itunes:category text="News &amp; Politics">
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="History" />
+    </itunes:category>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    
+    <itunes:owner>
+      <itunes:name>政见 CNPolitics.org</itunes:name>
+      <itunes:email>webmaster@cnpolitcs.org</itunes:email>
+    </itunes:owner>
+    <managingEditor>webmaster@cnpolitcs.org (政见 CNPolitics.org)</managingEditor>
+    <copyright>政见 CNPolitics.org, all rights reserverd.</copyright>
+    <itunes:subtitle>CNPolitcs Radio</itunes:subtitle>
+    
+    <pubDate>Mon, 09 May 2016 15:35:36 GMT</pubDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    
+    <item>
+      <title>恐袭一个月，我所见证和认识的布鲁塞尔</title>
+      <itunes:subtitle>一篇文章、一本书、一首歌</itunes:subtitle>
+      <itunes:author>鸽子</itunes:author>
+      <link>http://cnpolitics.github.io/radio/read/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep1/</guid>
+      <pubDate>Fri, 22 Apr 2016 12:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>一个月以前的3月22日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
+<p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
+<p>我与当地一位记者大叔聊起来，他说原本应该坐飞机出差，早上出事后，不得不回来工作。他有些愤愤地讲着自己看到的混乱景象，批评警方搜捕不力、政府漏洞百出的安保政策。然后，他对我一字一句地说：比利时压根儿既不是一个国家。</p>
+<p>我太理解他的不满了。无论是布鲁塞尔还是比利时，这种混乱感的背后，最根本的，正是这个国家纠结的政治逻辑。</p>
+<p>比利时是一个“撕裂”的国家，这里有三种官方语言。北部讲弗拉芒语和南部法语的两大语言群体，上百年来都在为何时何地说何种语言而争论不休。就在几年前，比利时在589天内处于无政府状态，时间之长一度打破了世界纪录。比利时这个棘手而破碎的社会，真的有可能分裂吗？</p>
+<p>在这期节目里，我将分享我所见证和认识的布鲁塞尔，我录下了恐袭现场的警笛声，录下了受恐袭影响改线的地铁通知声。在这些现场的亲历之外，我还将分享一篇文章和一本书，以及一首歌曲。它们都与布鲁塞尔有关。愿这些能让我们对比利时，对布鲁塞尔有更深刻的理解。</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>一个月以前的3月22日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
+<p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
+<p>我与当地一位记者大叔聊起来，他说原本应该坐飞机出差，早上出事后，不得不回来工作。他有些愤愤地讲着自己看到的混乱景象，批评警方搜捕不力、政府漏洞百出的安保政策。然后，他对我一字一句地说：比利时压根儿既不是一个国家。</p>
+<p>我太理解他的不满了。无论是布鲁塞尔还是比利时，这种混乱感的背后，最根本的，正是这个国家纠结的政治逻辑。</p>
+<p>比利时是一个“撕裂”的国家，这里有三种官方语言。北部讲弗拉芒语和南部法语的两大语言群体，上百年来都在为何时何地说何种语言而争论不休。就在几年前，比利时在589天内处于无政府状态，时间之长一度打破了世界纪录。比利时这个棘手而破碎的社会，真的有可能分裂吗？</p>
+<p>在这期节目里，我将分享我所见证和认识的布鲁塞尔，我录下了恐袭现场的警笛声，录下了受恐袭影响改线的地铁通知声。在这些现场的亲历之外，我还将分享一篇文章和一本书，以及一首歌曲。它们都与布鲁塞尔有关。愿这些能让我们对比利时，对布鲁塞尔有更深刻的理解。</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>一个月以前的3月22日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
+<p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
+<p>我与当地一位记者大叔聊起来，他说原本应该坐飞机出差，早上出事后，不得不回来工作。他有些愤愤地讲着自己看到的混乱景象，批评警方搜捕不力、政府漏洞百出的安保政策。然后，他对我一字一句地说：比利时压根儿既不是一个国家。</p>
+<p>我太理解他的不满了。无论是布鲁塞尔还是比利时，这种混乱感的背后，最根本的，正是这个国家纠结的政治逻辑。</p>
+<p>比利时是一个“撕裂”的国家，这里有三种官方语言。北部讲弗拉芒语和南部法语的两大语言群体，上百年来都在为何时何地说何种语言而争论不休。就在几年前，比利时在589天内处于无政府状态，时间之长一度打破了世界纪录。比利时这个棘手而破碎的社会，真的有可能分裂吗？</p>
+<p>在这期节目里，我将分享我所见证和认识的布鲁塞尔，我录下了恐袭现场的警笛声，录下了受恐袭影响改线的地铁通知声。在这些现场的亲历之外，我还将分享一篇文章和一本书，以及一首歌曲。它们都与布鲁塞尔有关。愿这些能让我们对比利时，对布鲁塞尔有更深刻的理解。</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://7xtl1z.com2.z0.glb.clouddn.com/read/audio/ep1.mp3" type="audio/mpeg" />
+      <itunes:image href="http://7xtl1z.com2.z0.glb.clouddn.com/read/cover-v0.1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
