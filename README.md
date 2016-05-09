@@ -61,10 +61,12 @@ hexo -h
 	``` shell
 	npm install
 	```
+
 3. 待上述过程完成后，输入：
 	``` shell
 	hexo server -s
 	```
+
 4. 完成后，理应获得 `INFO  Hexo is running at http://localhost:4000/` 的提示信息，在浏览器中输入 `http://localhost:4000/` 即可打开预览网站（本地服务器预览）
 5. 预览完成后按 `Control+C`/`Ctrl+C` 则可关闭本地服务器，进行后续操作
 
@@ -77,10 +79,12 @@ hexo -h
 	``` shell
 	hexo g
 	```
+
 4. 理应看到生成了一个 `public/` 目录，然后再在终端中输入
 	``` shell
 	hexo d
 	```
+
 5. 耐心等待一段时间（依网速而定），看到 `INFO  Deploy done: git` 信息出现后，表明布署完成
 6. 打开[测试网站]，或在播客客户端中浏览测试 feed 的更新情况（更多请参见下文「播客订阅测试」）
 
