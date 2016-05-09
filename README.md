@@ -4,7 +4,7 @@ The podcast feeds generator and static site of CNPolitics Radio, based on [Hexo]
 
 Copyright © 2011–2016 CNPolitics, all rights reserved.
 
-<http://realfish.github.io/cnp>
+<http://realfish.github.io/cnp-radio/>
 
 ### Feeds
 - 政见电台（总）：<http://cnpolitics.github.io/radio/feed.xml>
