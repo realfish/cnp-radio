@@ -18,9 +18,11 @@
 ### 第 2 步：安装 Node.js 并升级 npm
 1. 下载并安装 Node.js：<https://nodejs.org/en/download>
 2. 安装完毕后，打开本机的终端（命令行）工具（[Mac][osx-terminal]/[Win][win-cmd]），输入：
-	``` shell
+	```shell
 	sudo npm install npm -g
 	```
+
+3. 安装完毕 npm 后请尝试修复权限，以避免后续问题：<https://docs.npmjs.com/getting-started/fixing-npm-permissions>
 
 [osx-terminal]: http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 [win-cmd]: http://windows.microsoft.com/zh-cn/windows-vista/open-a-command-prompt-window
@@ -31,12 +33,12 @@
 
 ### 第 3 步：安装 Hexo
 在本机的终端 / 命令行工具（[Mac][osx-terminal]/[Win][win-cmd]）中，输入：
-``` shell
+```shell
 npm install -g hexo-cli
 ```
 
 完成上述步骤后，可再输入：
-``` shell
+```shell
 hexo -h
 ```
 若安装成功，则会出现一大屏的文字信息，包括一组命令说明（类似帮助文档）。
@@ -58,12 +60,12 @@ hexo -h
 ### 第 5 步：在本地安装播客发布程序
 1. 在本机的终端中，通过 `cd` 命令进入到第 4 步所创建的目录
 2. 输入：
-	``` shell
+	```shell
 	npm install
 	```
 
 3. 待上述过程完成后，输入：
-	``` shell
+	```shell
 	hexo server -s
 	```
 
@@ -76,12 +78,12 @@ hexo -h
 1. 在第 4 步所创建的目录下，找到 `source/_posts/` 文件夹，其下分类保存的，即为各个节目的帖子
 2. 用任意 Markdown 编辑器或纯文本编辑器，创建一个新的 `.md` 文件；文件命名方式和内容格式，可直接照搬现有的文件
 3. 新帖子编辑 / 保存完毕后，在终端中输入
-	``` shell
+	```shell
 	hexo g
 	```
 
 4. 理应看到生成了一个 `public/` 目录，然后再在终端中输入
-	``` shell
+	```shell
 	hexo d
 	```
 
