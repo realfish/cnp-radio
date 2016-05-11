@@ -16,7 +16,7 @@
 
 关于终端（命令行）工具可参考：[Mac][osx-terminal] 或 [Win][win-cmd]。
 
-### 第 3 步：安装 Hexo CLI（Hexo 命令行工具）
+### 第 3 步：安装 Hexo CLI（命令行工具）
 1. 在终端中输入以下命令安装 hexo-cli：
 	```shell
 	npm install -g hexo-cli
@@ -95,7 +95,7 @@ Apple 出品的 [Podcasts][podcasts]（播客），以及 [Castro][castro]、[Ov
 
 5. 待命令执行完毕（时长依网速而定，可看到 `INFO  Deploy done: git` 信息出现），打开[测试网站][cnp-radio]或在播客客户端中浏览测试节目更新情况
 
-推荐 Markdown 编辑器：Mac 的[MacDown][macdown]，Win 的[MarkdownPad][markdownpad]。
+推荐 Markdown 编辑器：Mac 的 [MacDown][macdown]，Win 的 [MarkdownPad][markdownpad]。
 
 
 
