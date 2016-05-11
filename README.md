@@ -11,6 +11,7 @@
 	```shell
 	sudo npm install npm -g
 	```
+
 3. 修复 npm 权限（[内含教程教程][fixing-npm-permissions]），以避免后续问题。
 
 关于终端（命令行）工具可参考：[Mac][osx-terminal] 或 [Win][win-cmd]。
@@ -20,6 +21,7 @@
 	```shell
 	npm install -g hexo-cli
 	```
+
 2. 安装完毕后，可输入以下命令进行测试：
 	```shell
 	hexo -h
@@ -42,10 +44,12 @@
 	```shell
 	npm install
 	```
+
 3. 待上述过程完成后，输入：
 	```shell
 	hexo server
 	```
+
 4. 完成后将出现提示信息 `Hexo is running at http://localhost:4000/`，在浏览器中打开 <http://localhost:4000> 即可预览（本地虚拟）网站
 5. 在终端中按 `control+C` (Mac) 或 `Ctrl+C` (Win) 可关闭本地服务器，进行后续操作
 
