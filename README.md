@@ -1,11 +1,11 @@
 ## 准备工作
 准备工作包括：安装 Git、Node.js、npm、Hexo CLI 这四个基本工具，并下载和安装政见专用的播客发布工具。
 
-### 第 1 步：下载并安装 Git
-[下载并安装](https://git-scm.com/download)，更多信息可参考[官方指南][git-get-start]。
+### 第 1 步：安装 Git
+[下载并安装][git-download]，更多信息可参考[官方指南][git-get-start]。
 
 ### 第 2 步：安装 Node.js 和 npm
-1. [下载并安装 Node.js](https://nodejs.org/en/download)
+1. [下载并安装 Node.js][node-download]
 2. 打开本机的终端（命令行）工具，输入以下命令升级 npm（[官方指南含视频][npm-get-start]）：
 	```shell
 	sudo npm install npm -g
@@ -28,7 +28,7 @@
 
 若安装成功，会出现一组说明性文案。更多信息可参考[官方指南][hexo-doc]。
 
-### 第 4 步：用 SourceTree 下载播客发布工具源码
+### 第 4 步：用 SourceTree 下载播客发布工具
 1. [下载并安装 SourceTree](https://www.sourcetreeapp.com)
 2. 按软件使用引导注册 Atlassian 帐户并登录
 3. 添加自己的 GitHub 帐户
@@ -37,7 +37,7 @@
 	- 依提示添加 GitHub 帐户
 4. 点选「Remote」面板，在「GitHub」分组下找到 `realfish/cnp-radio` 并「Clone」到本地，生成一个新的文件夹
 
-### 第 5 步：在本地安装播客发布工具
+### 第 5 步：安装播客发布工具
 1. 在终端中，通过 `cd` 命令进入到第 4 步所生成的文件夹
 2. 输入以下命令安装：
 	```shell
@@ -77,32 +77,34 @@ Apple 出品的 [Podcasts][podcasts]（播客），以及 [Castro][castro]、[Ov
 
 
 ## 发布新节目
-发布节目的总体流程为：添加新节目，生成可供发布的节目内容（源代码），预览（并按需修订），确认无误后布署。
+发布流程为：添加新节目，**生成**可供发布的节目内容，预览（并按需修订），确认无误后**布署**。
 
-1. 在第 4 步所创建的目录下，找到 `source/_posts/` 文件夹（其下分文件夹保存的，是各频道、各期节目的发布内容，以 `.md` 文件形式存在）
+1. 在准备工作第 4 步所创建的目录下，找到 `source/_posts/` 文件夹（其下分文件夹保存的，是各频道、各期节目的发布内容，以 `.md` 文件形式存在）
 2. 复制任一 `.md` 文件（更新文件名，与节目期号一致），用 Markdown 编辑器打开并更新内容（模仿既有格式）
-3. 更新后保存以上 `.md` 文件，并在终端中输入生成命令（generate）：
+3. 更新后保存以上 `.md` 文件，并在终端中输入**生成**命令（generate）：
 	```shell
 	hexo g
 	```
 
 4. 在终端中启动本地服务器（`hexo server`），打开 <http://localhost:4000> 预览播客网站的更新情况
 5. 若在预览中发现节目信息有误，可重复上述 2、3、4 项以修订
-6. 确认无误后在终端内关闭本地服务器（Control+C / Ctrl+C），并输入布署命令（deploy）：
+6. 确认无误后在终端内关闭本地服务器（Control+C / Ctrl+C），并输入**布署**命令（deploy）：
 	```shell
 	hexo d
 	```
 
 7. 待布署完毕（时长依网速而定，可看到 `INFO  Deploy done: git` 信息出现），打开[测试网站][cnp-radio]或在播客客户端中浏览测试节目更新情况
 
-推荐 Markdown 编辑器：Mac 的 [MacDown][macdown]，Win 的 [MarkdownPad][markdownpad]。
+免费的 Markdown 编辑器：Mac 的 [MacDown][macdown]，Win 的 [MarkdownPad][markdownpad]。
 
 
 
 
 
 
+[git-download]: https://git-scm.com/download
 [git-get-start]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[node-download]: https://nodejs.org/en/download
 [npm-get-start]: https://docs.npmjs.com/getting-started/installing-node
 [fixing-npm-permissions]: https://docs.npmjs.com/getting-started/fixing-npm-permissions
 [osx-terminal]: http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
