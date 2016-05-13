@@ -11,6 +11,7 @@
 		```shell
 		sudo npm install npm -g
 		```
+		
 	- Win
 		```shell
 		npm install npm -g
@@ -26,6 +27,7 @@
 		```shell
 		sudo npm install hexo-cli -g
 		```
+		
 	- Win
 		```shell
 		npm install hexo-cli -g
