@@ -7,9 +7,14 @@
 ### 第 2 步：安装 Node.js 和 npm
 1. [下载并安装 Node.js][node-download]
 2. 打开本机的终端（命令行）工具，输入以下命令升级 npm（[官方指南含视频][npm-get-start]）：
-	```shell
-	sudo npm install npm -g
-	```
+	- Mac
+		```shell
+		sudo npm install npm -g
+		```
+	- Win
+		```shell
+		npm install npm -g
+		```
 
 3. 修复 npm 权限（[内含教程教程][fixing-npm-permissions]）
 
@@ -17,9 +22,14 @@
 
 ### 第 3 步：安装 Hexo CLI（命令行工具）
 1. 在终端中输入以下命令安装 hexo-cli：
-	```shell
-	npm install -g hexo-cli
-	```
+	- Mac
+		```shell
+		sudo npm install hexo-cli -g
+		```
+	- Win
+		```shell
+		npm install hexo-cli -g
+		```
 
 2. 安装完毕后，可输入以下命令进行测试：
 	```shell
