@@ -25,6 +25,7 @@
 
     <title>政见｜政好读书</title>
     <link>http://radio.cnpolitics.org/read</link>
+    <itunes:new-feed-url>http://radio.cnpolitics.org/read/feed.xml</itunes:new-feed-url>
     <atom:link href="http://radio.cnpolitics.org/read/feed.xml" rel="self" type="application/rss+xml"/>
     <description>政见 CNPolitics 出品的读书节目。在这里，我们将与你分享优秀且优美的社科作品，用声音传递美与智慧。</description>
     <itunes:summary>政见 CNPolitics 出品的读书节目。在这里，我们将与你分享优秀且优美的社科作品，用声音传递美与智慧。</itunes:summary>

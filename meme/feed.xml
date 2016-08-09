@@ -25,6 +25,7 @@
 
     <title>政见｜政正有词</title>
     <link>http://radio.cnpolitics.org/meme</link>
+    <itunes:new-feed-url>http://radio.cnpolitics.org/meme/feed.xml</itunes:new-feed-url>
     <atom:link href="http://radio.cnpolitics.org/meme/feed.xml" rel="self" type="application/rss+xml"/>
     <description>打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。</description>
     <itunes:summary>打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。</itunes:summary>

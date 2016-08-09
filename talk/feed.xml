@@ -25,6 +25,7 @@
 
     <title>政见｜政常说话</title>
     <link>http://radio.cnpolitics.org/talk</link>
+    <itunes:new-feed-url>http://radio.cnpolitics.org/talk/feed.xml</itunes:new-feed-url>
     <atom:link href="http://radio.cnpolitics.org/talk/feed.xml" rel="self" type="application/rss+xml"/>
     <description>政见 CNPolitics 出品的聊天节目。我们正常说话，轻松聊天，把那些不说人话的深奥理论用简单的语言解释给你听。</description>
     <itunes:summary>政见 CNPolitics 出品的聊天节目。我们正常说话，轻松聊天，把那些不说人话的深奥理论用简单的语言解释给你听。</itunes:summary>
@@ -45,14 +46,14 @@
     <itunes:subtitle>The Talk | CNPolitcs Radio</itunes:subtitle>
     
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <pubDate>Thu, 02 Jun 2016 13:56:24 GMT</pubDate>
+    <pubDate>Thu, 02 Jun 2016 14:08:30 GMT</pubDate>
     <language>zh-CN</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
     
     <item>
-      <title>#4：真实的犹太人：聪明绝顶？商业天才？</title>
+      <title>#4：真实的犹太人：聪明绝顶？</title>
       <itunes:subtitle>我们请到了一位犹太人来亲身讲述</itunes:subtitle>
       <itunes:author>方可成、Maria、邓哲远</itunes:author>
       <link>http://cnp-radio.laerhsif.com/talk/ep4/</link>

@@ -26,6 +26,7 @@
 
     <title>政见｜讲座 &amp; 访谈</title>
     <link>http://radio.cnpolitics.org/scholar</link>
+    <itunes:new-feed-url>http://radio.cnpolitics.org/scholar/feed.xml</itunes:new-feed-url>
     <atom:link href="http://radio.cnpolitics.org/scholar/feed.xml" rel="self" type="application/rss+xml"/>
     <description>政见 CNPolitics 举办的沙龙、讲座、访谈精彩内容，原声呈现，如临现场。</description>
     <itunes:summary>政见 CNPolitics 举办的沙龙、讲座、访谈精彩内容，原声呈现，如临现场。</itunes:summary>
